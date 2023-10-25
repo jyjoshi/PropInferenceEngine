@@ -1,0 +1,23 @@
+TODO:
+Standardization : When a particular variable name is already in use and assign new set of variables.
+Create two groups of variables (u, v) and (x, y).
+If the current query clause contains (u, v) the new_clause should contain (x, y) and vice versa.
+
+
+
+Places we can optimize:
+Make different predicate dictionaries for predicates containing only constants.
+
+
+
+20 (Maximum Depth Reached), 25, 8, 10, 12
+
+
+
+
+Add try except
+
+
+
+
+
